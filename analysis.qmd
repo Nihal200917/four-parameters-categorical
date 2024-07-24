@@ -1,0 +1,9 @@
+---
+title: "Four Parameters: Categorical"
+author: "Nihal Neeraj"
+format: html
+execute: 
+  echo: false
+---
+
+
